@@ -66,6 +66,7 @@ There are many posts and articles on Firebase but sometimes it is difficult to l
 * MockFirebase https://github.com/katowulf/mockfirebase
 * FireUser https://github.com/Jon-Biz/FireUser
 * firebase-element https://github.com/googlewebcomponents/firebase-element
+* angularfire-multi-auth https://github.com/douglascorrea/angularfire-multi-auth
 
 ##Miscellaneous 
 * Build Better Mobile Apps with FirebaseUI https://www.firebase.com/blog/2015-08-27-firebaseui-makes-mobile-easy.html
