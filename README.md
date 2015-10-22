@@ -35,6 +35,9 @@ There are many posts and articles on Firebase but sometimes it is difficult to l
 * Using Ember Data With Firebase https://www.twilio.com/blog/2015/09/using-ember-data-with-firebase.html 
 * Building a Todo app using ember.js & firebase http://sudharti.github.io/articles/ember-todo-firebase/ 
 
+##Firebase + Pebble
+* Introduction to using Firebase on the Pebble Watch https://abe.ghost.io/firebase-pebble/
+
 ##Tools
 * firebase-angular-starter-pack https://github.com/firebase/firebase-angular-starter-pack
 * FirebaseUI https://github.com/firebase/FirebaseUI
