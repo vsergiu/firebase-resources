@@ -18,11 +18,11 @@ There are many posts and articles on Firebase but sometimes it is difficult to l
 * Build a Real Time Hybrid App with Ionic & Firebase https://www.airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase
 * Using Ionic with Firebase https://www.firebase.com/docs/web/libraries/ionic/guide.html
 * Create a Password Management App Using Ionic Framework and Firebase https://www.airpair.com/ionic-framework/posts/ionic-firebase-password-manager
-* Sign Into Firebase With Facebook Using Ionic Framework https://blog.nraboy.com/2015/03/sign-into-firebase-with-facebook-using-ionic-framework/
+* Sign Into Firebase With Facebook Using Ionic Framework https://www.thepolyglotdeveloper.com/2015/03/sign-into-firebase-with-facebook-using-ionic-framework/
 * Creating a Bucket List with the Ionic Framework and Firebase http://www.sitepoint.com/creating-bucket-list-ionic-framework-firebase/
 * Creating a Chat App Using Ionic and Firebase http://httplambda.com/creating-a-multi-platform-anonymous-real-time-chat-app-using-ionic-and-firebase/
 * Real Time Synced Slides using Ionic, Firebase and AngularJS http://ng-learn.org/2014/07/Project_Synces_Slides/
-* Syncing Data With Firebase Using Ionic Framework https://blog.nraboy.com/2014/12/syncing-data-firebase-using-ionic-framework/
+* Syncing Data With Firebase Using Ionic Framework https://www.thepolyglotdeveloper.com/2014/12/syncing-data-firebase-using-ionic-framework/
 * Creating a Firebase Powered End to End Ionic Application http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/
 * Adding Social Login with Firebase http://blog.ionic.io/adding-social-login-with-firebase/
 * Create a Real Time Chat App with Ionic and Firebase http://www.joshmorony.com/create-a-real-time-chat-app-with-ionic-and-firebase/
@@ -32,8 +32,8 @@ There are many posts and articles on Firebase but sometimes it is difficult to l
 * Upload Camera Images To Firebase Using Ionic Framework https://www.airpair.com/ionic-framework/posts/ionic-firebase-camera-app
 * [Video] Build a Cross Platform App with Ionic https://www.firebase.com/blog/2015-05-04-ionic-screencast.html
 ##Firebase + Ember
-* Using Ember Data With Firebase https://www.twilio.com/blog/2015/09/using-ember-data-with-firebase.html 
-* Building a Todo app using ember.js & firebase http://sudharti.github.io/articles/ember-todo-firebase/ 
+* Using Ember Data With Firebase https://www.twilio.com/blog/2015/09/using-ember-data-with-firebase.html
+* Building a Todo app using ember.js & firebase http://sudharti.github.io/articles/ember-todo-firebase/
 
 ##Firebase + Pebble
 * Introduction to using Firebase on the Pebble Watch https://abe.ghost.io/firebase-pebble/
@@ -48,7 +48,7 @@ There are many posts and articles on Firebase but sometimes it is difficult to l
 * angularfire https://github.com/firebase/angularfire
 * emberfire https://github.com/firebase/emberfire
 * reactfire https://github.com/firebase/reactfire
-* backbonefire https://github.com/firebase/backbonefire 
+* backbonefire https://github.com/firebase/backbonefire
 * firebase-dart https://github.com/firebase/firebase-dart
 * angularfire-seed https://github.com/firebase/angularfire-seed
 * firebase-queue https://github.com/firebase/firebase-queue
@@ -71,7 +71,7 @@ There are many posts and articles on Firebase but sometimes it is difficult to l
 * firebase-element https://github.com/googlewebcomponents/firebase-element
 * angularfire-multi-auth https://github.com/douglascorrea/angularfire-multi-auth
 
-##Miscellaneous 
+##Miscellaneous
 * Build Better Mobile Apps with FirebaseUI https://www.firebase.com/blog/2015-08-27-firebaseui-makes-mobile-easy.html
 * BUILDING A LIVE USER TRACKER WITH WORDPRESS, FIREBASE, AND ANGULARJS http://torquemag.io/building-a-live-user-tracker-with-wordpress-firebase-and-angularjs-2
 * Build a homemade spying machine with a Raspberry-Pi, Firebase, AngularJS and some Python https://medium.com/@rotemtam/build-a-homemade-spying-machine-with-a-raspberry-pi-firebase-and-some-python-9ef74bec301c
@@ -84,7 +84,7 @@ There are many posts and articles on Firebase but sometimes it is difficult to l
 * How to build a Firebase web app https://www.airpair.com/firebase/posts/how-to-build-a-firebase-web-app
 * Structuring your Firebase Data correctly for a Complex App https://www.airpair.com/firebase/posts/structuring-your-firebase-data
 * Making a Keen.io Dashboard Real-time by Integrating it with Firebase & D3.js https://www.airpair.com/firebase/posts/making-a-keenio-dashboard-realtime-by-integrating-it-with-firebase--d3js
-* Firebase Tutorial: Building a Realtime App with Firebase https://www.airpair.com/firebase/posts/firebase-building-realtime-app 
+* Firebase Tutorial: Building a Realtime App with Firebase https://www.airpair.com/firebase/posts/firebase-building-realtime-app
 * Real-Time Chat with Dart and Firebase https://dart.academy/real-time-chat-with-dart-and-firebase/
 * [Video] CocoaPods Quickstart https://www.youtube.com/watch?v=009UrLVlAbo
 * [Video] Modular Angular: Apps that Scale https://www.youtube.com/watch?v=4a5L82OBBWk
@@ -96,7 +96,7 @@ There are many posts and articles on Firebase but sometimes it is difficult to l
 * Real-Time Web Apps With AngularJS and Firebase http://code.tutsplus.com/courses/real-time-web-apps-with-angularjs-and-firebase
 * Creating a Web App From Scratch Using AngularJS and Firebase http://code.tutsplus.com/series/creating-a-web-app-from-scratch-using-angularjs-and-firebase
 
-##Community 
+##Community
 * Firebase Google Group https://groups.google.com/forum/#!forum/firebase-talk
 * Best of Firebase Newsletter http://bestoffirebase.com/
 * Firebase on Reddit https://www.reddit.com/r/Firebase/
