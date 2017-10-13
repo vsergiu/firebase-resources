@@ -12,24 +12,31 @@ There are many posts and articles on Firebase but sometimes it is difficult to l
 * Firecasts On Youtube https://www.youtube.com/user/Firebase/playlists?sort=dd&view=50&shelf_id=9
 # Firebase On The Web
 ## React
-
+* Intro to Firebase and React https://css-tricks.com/intro-firebase-react/
+* How to Create a Reddit Clone Using React and Firebase https://www.sitepoint.com/reddit-clone-react-firebase/
 ## Angular
 * Build a Status Update App (w/ Reactions) Using Angular v4 and Firebase https://scotch.io/tutorials/build-a-status-update-app-w-reactions-using-angular-v4-and-firebase
-
+* Angular Firebase Youtube Channel - full of amazing tutorials https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA 
 ## Vue
 * Add Firebase/Firestore to your Vue app https://codeburst.io/add-firebase-firestore-to-your-vue-app-775d8a4dfa45
 * Basic Single Page application using Vue.js and Firebase
-⋅⋅* part 1: https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-1-9e4c0c11a228
-⋅⋅* part 2: https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-2-143a3084266f
+.. part 1: https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-1-9e4c0c11a228
+⋅⋅ part 2: https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-2-143a3084266f
+* Vue 2 + Firebase: How to build a Vue app with Firebase authentication system in 15 minutes https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c
 # Firebase On iOS
-
+* [iOS] Remote Notification with Firebase Tutorial https://medium.com/ios-os-x-development/ios-remote-notification-with-firebase-tutorial-118acd3ebce1
 # Firebase On Android
 * Add Firebase Authentication to your App in 7minutes https://medium.com/@peterekeneeze/add-firebase-authentication-to-your-app-in-7minutes-c13df58994bd
-# Firebase on Ionic, React Native and other platforms
+# Firebase On Ionic
 * Google Cloud Firestore integration with Ionic and AngularFire https://medium.com/google-cloud/google-cloud-firestore-integration-with-ionic-and-angularfire-41122af71433
+* Ionic 3 + Google Cloud Vision + Firebase https://medium.com/google-cloud/ionic-3-google-cloud-vision-firebase-78ea68cfbea8
+## Courses
+* Create a CRUD Application with Ionic 3 and Firebase https://www.udemy.com/create-a-crud-application-with-ionic-3-and-firebase/?utm_campaign=Best%2Bof%2BFirebase&utm_medium=web&utm_source=Best_of_Firebase_18
+
 
 # Misc
 * Practical (and simple) implementation of Big Data in Mobile Apps https://medium.com/@agnieszka.biernacka.1990/practical-and-simple-implementation-of-big-data-in-mobile-apps-19e1dc045e7c
+* Next.js on Cloud Functions for Firebase with Firebase Hosting https://codeburst.io/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2
 
 # Tools
 * firebase-angular-starter-pack https://github.com/firebase/firebase-angular-starter-pack
