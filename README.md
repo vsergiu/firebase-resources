@@ -37,6 +37,7 @@ There are many posts and articles on Firebase but sometimes it is difficult to l
 # Misc
 * Practical (and simple) implementation of Big Data in Mobile Apps https://medium.com/@agnieszka.biernacka.1990/practical-and-simple-implementation-of-big-data-in-mobile-apps-19e1dc045e7c
 * Next.js on Cloud Functions for Firebase with Firebase Hosting https://codeburst.io/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2
+* Programming Community Curated Resources for learning Firebase https://hackr.io/tutorials/learn-firebase
 
 # Tools
 * firebase-angular-starter-pack https://github.com/firebase/firebase-angular-starter-pack
